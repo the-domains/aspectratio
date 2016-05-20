@@ -1,29 +1,18 @@
-name: aspectratio
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.56299
-title: A story about bringing a dream to reality
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#070506'
-    - '#322c30'
-    - '#66798a'
-    - '#babcbb'
-    - '#fefefe'
+    - '#322C30'
+    - '#66798A'
+    - '#BABCBB'
+    - '#FEFEFE'
   brandStrength: 0.6875
   lightness: 0.8125
-  saturation: 0.1875
   rhythmicContrast: 0.25
+  saturation: 0.1875
+cta: {}
+layout_spectrum: 0
+name: aspectratio
+opengraph: {}
 purpose: []
+typography_spectrum: 0.56299
