@@ -1,11 +1,11 @@
 analytics: {}
 color:
   brandColors:
-    - '#070506'
-    - '#322C30'
-    - '#66798A'
-    - '#BABCBB'
-    - '#FEFEFE'
+    - '#FFFFFF'
+    - '#3B3B39'
+    - '#ED7709'
+    - '#7ACEF2'
+    - '#6D6D6B'
   brandStrength: 0.6875
   lightness: 0.8125
   rhythmicContrast: 0.25
@@ -15,4 +15,4 @@ layout_spectrum: 0
 name: aspectratio
 opengraph: {}
 purpose: []
-typography_spectrum: 0.56299
+typography_spectrum: 0.625
