@@ -1,20 +1,4 @@
-name: aspectratio
-favicon: null
-layout_spectrum: 0.85883
-typography_spectrum: 0.39233
-title: A dream becoming a reality
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#FFFFFF'
@@ -24,6 +8,12 @@ color:
     - '#6D6D6B'
   brandStrength: 0.6875
   lightness: 0.1875
-  saturation: 0.25
   rhythmicContrast: 0.25
+  saturation: 0.25
+cta: {}
+layout_spectrum: 0
+name: aspectratio
+opengraph: {}
 purpose: []
+title: A dream becoming a reality
+typography_spectrum: 0.39233
